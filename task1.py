@@ -1,3 +1,5 @@
+#Program asks user for name and age and prints out the year in which he/she will turn 100.
+
 name=input("What is yout name?")
 age=input("How old are you?")
 
